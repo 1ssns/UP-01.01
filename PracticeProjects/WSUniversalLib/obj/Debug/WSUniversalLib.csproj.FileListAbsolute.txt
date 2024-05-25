@@ -1,0 +1,18 @@
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\brawl\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\WSUniversalLib\obj\Debug\WSUniversalLib.pdb

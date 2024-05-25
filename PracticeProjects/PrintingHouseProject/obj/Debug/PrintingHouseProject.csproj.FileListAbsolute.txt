@@ -1,0 +1,251 @@
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe.config
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.pdb
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.pdb
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.AssemblyReference.cache
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.SuggestedBindingRedirects.cache
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.g.cs
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.g.cs
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.cache
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.lref
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.baml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.baml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.g.resources
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.Properties.Resources.resources
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.GenerateResource.cache
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CoreCompileInputs.cache
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CopyComplete
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.exe
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.pdb
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.xml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.resources.dll
+X:\Шарага\2 семестр\МДК 11.01\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_Content.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe.config
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.resources.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.AssemblyReference.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.SuggestedBindingRedirects.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_Content.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.lref
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.baml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.baml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.g.resources
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.Properties.Resources.resources
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.GenerateResource.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CoreCompileInputs.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CopyComplete
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.exe
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.baml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe.config
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.resources.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.AssemblyReference.cache
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.SuggestedBindingRedirects.cache
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.g.cs
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.g.cs
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.g.cs
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_Content.g.cs
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.cache
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.lref
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\App.baml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.baml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.baml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.g.resources
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.Properties.Resources.resources
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.GenerateResource.cache
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CoreCompileInputs.cache
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CopyComplete
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.exe
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.Interfaces.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.System.Drawing.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\BouncyCastle.Crypto.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\BouncyCastle.Crypto.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.Interfaces.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.System.Drawing.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.xml
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\ChartWindow.g.cs
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\ChartWindow.baml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.xml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\ChartWindow.g.cs
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\obj\Debug\ChartWindow.baml
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.dll
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.pdb
+E:\2\УП11_01\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.AssemblyReference.cache
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.g.cs
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.g.cs
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\App.g.cs
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_Content.g.cs
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.cache
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.lref
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.exe
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe.config
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\App.baml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.baml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.baml
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.g.resources
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.Properties.Resources.resources
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.GenerateResource.cache
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CoreCompileInputs.cache
+C:\Users\brawl\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\Printing.61E35201.Up2Date
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.AssemblyReference.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.g.cs
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.g.cs
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\App.g.cs
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_Content.g.cs
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject_MarkupCompile.lref
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.exe
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe.config
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.exe
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\PrintingHouseProject.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\WSUniversalLib.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\EPPlus.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\itextsharp.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\App.baml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\CreateNewAgentWindow.baml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\MainWindow.baml
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.g.resources
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.Properties.Resources.resources
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.GenerateResource.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\PrintingHouseProject.csproj.CoreCompileInputs.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\PrintingHouseProject\obj\Debug\Printing.61E35201.Up2Date

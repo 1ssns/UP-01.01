@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PleasantRustleDesktop.csproj|c:\\users\\brawl\\desktop\\up 01.01\\practiceprojects\\printinghouseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PleasantRustleDesktop.csproj|solutionrelative:printinghouseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PleasantRustleDesktop.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\createnewagentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PleasantRustleDesktop.csproj|solutionrelative:printinghouseproject\\createnewagentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\createnewagentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|solutionrelative:printinghouseproject\\createnewagentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47918707-2094-4A84-972F-46257E6F401C}|WSUniversalLib\\WSUniversalLib.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\wsuniversallib\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47918707-2094-4A84-972F-46257E6F401C}|WSUniversalLib\\WSUniversalLib.csproj|solutionrelative:wsuniversallib\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|solutionrelative:printinghouseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|solutionrelative:printinghouseproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\createnewagentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|solutionrelative:printinghouseproject\\createnewagentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\printinghouseproject\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0635CBC-26AF-4AF9-9555-AF1FE6C04B76}|PrintingHouseProject\\PrintingHouseProject.csproj|solutionrelative:printinghouseproject\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateNewAgentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "RelativeToolTip": "PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:03:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrintingHouseProject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA6wIsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:31:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\WSUniversalLib\\Calculation.cs",
+              "RelativeDocumentMoniker": "WSUniversalLib\\Calculation.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\WSUniversalLib\\Calculation.cs",
+              "RelativeToolTip": "WSUniversalLib\\Calculation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:44:46.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewAgentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "RelativeToolTip": "PrintingHouseProject\\CreateNewAgentWindow.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:25:52.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrintingHouseProject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:44:01.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNewAgentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\CreateNewAgentWindow.xaml",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\CreateNewAgentWindow.xaml",
+              "RelativeToolTip": "PrintingHouseProject\\CreateNewAgentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T07:27:46.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\MainWindow.xaml",
+              "RelativeToolTip": "PrintingHouseProject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T06:43:59.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agents.cs",
+              "DocumentMoniker": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\Agents.cs",
+              "RelativeDocumentMoniker": "PrintingHouseProject\\Agents.cs",
+              "ToolTip": "C:\\Users\\brawl\\Desktop\\UP 01.01\\PracticeProjects\\PrintingHouseProject\\Agents.cs",
+              "RelativeToolTip": "PrintingHouseProject\\Agents.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:24.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

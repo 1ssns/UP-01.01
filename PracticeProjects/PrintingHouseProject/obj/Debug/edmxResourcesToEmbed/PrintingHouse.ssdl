@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище PrintingHouseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Agents">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Type" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="256" Nullable="false" />
+    <Property Name="Tel" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Logotype" Type="varchar" MaxLength="100" />
+    <Property Name="Address" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="Director" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="INN" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="KPP" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Type" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Art" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="People_for_prod" Type="int" />
+    <Property Name="Workshop_number" Type="int" />
+    <Property Name="Min_cost" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sold_products">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Product_id" Type="int" Nullable="false" />
+    <Property Name="Agent_id" Type="int" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Sold_prod__Agent__6FE99F9F">
+    <End Role="Agents" Type="Self.Agents" Multiplicity="1" />
+    <End Role="Sold_products" Type="Self.Sold_products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agents">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Sold_products">
+        <PropertyRef Name="Agent_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sold_prod__Produ__7E37BEF6">
+    <End Role="Products" Type="Self.Products" Multiplicity="1" />
+    <End Role="Sold_products" Type="Self.Sold_products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Sold_products">
+        <PropertyRef Name="Product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище PrintingHouseModelContainer">
+    <EntitySet Name="Agents" EntityType="Self.Agents" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sold_products" EntityType="Self.Sold_products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Sold_prod__Agent__6FE99F9F" Association="Self.FK__Sold_prod__Agent__6FE99F9F">
+      <End Role="Agents" EntitySet="Agents" />
+      <End Role="Sold_products" EntitySet="Sold_products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sold_prod__Produ__7E37BEF6" Association="Self.FK__Sold_prod__Produ__7E37BEF6">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Sold_products" EntitySet="Sold_products" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

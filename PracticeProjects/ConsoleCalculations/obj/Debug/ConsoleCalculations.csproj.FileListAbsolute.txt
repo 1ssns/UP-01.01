@@ -1,0 +1,42 @@
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe.config
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.dll
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.pdb
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.AssemblyReference.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.SuggestedBindingRedirects.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CoreCompileInputs.cache
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CopyComplete
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.exe
+X:\Шарага\2 семестр\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.pdb
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe.config
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.pdb
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.dll
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.pdb
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.AssemblyReference.cache
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.SuggestedBindingRedirects.cache
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CoreCompileInputs.cache
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CopyComplete
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.exe
+E:\2\УП11_01\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.pdb
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe.config
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.pdb
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.dll
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.pdb
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.AssemblyReference.cache
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleC.744C8FFE.Up2Date
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.exe
+C:\Users\brawl\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe.config
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\ConsoleCalculations.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.dll
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\bin\Debug\WSUniversalLib.pdb
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.AssemblyReference.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleC.744C8FFE.Up2Date
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.exe
+C:\Users\user-IVC\Desktop\PracticeProjects\ConsoleCalculations\obj\Debug\ConsoleCalculations.pdb

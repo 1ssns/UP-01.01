@@ -1,0 +1,85 @@
+﻿<Window
+    x:Class="PrintingHouseProject.CreateNewAgentWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:PrintingHouseProject"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Редактирование/Добавление агента"
+    Width="500"
+    Height="500"
+    MinWidth="500"
+    MinHeight="500"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel>
+            <TextBox
+                x:Name="nameAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Наименованние агента"
+                Text="{Binding AgentName}" />
+            <TextBox
+                x:Name="typeAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Тип агента"
+                Text="{Binding AgentType}" />
+            <TextBox
+                x:Name="priorityAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Приоритет агента"
+                Text="{Binding Priority}" />
+            <TextBox
+                x:Name="adressAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Юридический адрес"
+                Text="{Binding LegalAddress}" />
+            <TextBox
+                x:Name="innAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="ИНН агента"
+                Text="{Binding INN}" />
+            <TextBox
+                x:Name="kppAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="КПП агента"
+                Text="{Binding KPP}" />
+            <TextBox
+                x:Name="directorAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="ФИО директора"
+                Text="{Binding Director}" />
+            <TextBox
+                x:Name="telAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Телефон агента"
+                Text="{Binding Phone}" />
+            <TextBox
+                x:Name="emailAgentBox"
+                Width="200"
+                Margin="0,15,0,0"
+                materialDesign:HintAssist.Hint="Email агента"
+                Text="{Binding Email}" />
+            <Button
+                x:Name="logotypeAddingButton"
+                Margin="140,15,140,0"
+                Click="logotypeAddingButton_Click"
+                Content="Выбрать логотип" />
+            <Button
+                x:Name="saveChangesButton"
+                Margin="140,15,140,0"
+                Background="#FFFFB03B"
+                BorderBrush="#FFFBA320"
+                Click="saveChangesButton_Click"
+                Content="Сохранить данные" />
+        </StackPanel>
+    </Grid>
+</Window>
